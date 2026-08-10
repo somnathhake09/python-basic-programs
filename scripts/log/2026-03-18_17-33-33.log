@@ -1,0 +1,2351 @@
+----------------------------------------
+		System Survillance Script
+Log Created at :Wed Mar 18 17:33:33 2026
+----------------------------------------
+
+--------------System Information----------------
+CPU Usage:59.1 %
+----------------------------------------
+Ram Usage:87.1 %
+Disk usage Report:
+----------------------------------------
+C:\ -> 83.7 % 
+D:\ -> 3.1 % 
+E:\ -> 22.2 % 
+----------------------------------------
+
+Network Usage Report:
+Sent : 146.57 MB
+Recv : 273.48 MB
+----------------------------------------
+
+PID : 0
+Name : System Idle Process
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 1970-01-01 05:30:00
+CPU : 248.0
+Memory : 0.00010377572405619871
+----------------------------------------
+PID : 4
+Name : System
+UserName : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 1970-01-01 05:30:00
+CPU : 33.6
+Memory : 0.004306692548332246
+----------------------------------------
+PID : 140
+Name : 
+UserName : None
+Status : stopped
+Start Time : 2026-03-18 16:20:26
+CPU : 0.0
+Memory : 0.5425394853658069
+----------------------------------------
+PID : 184
+Name : Registry
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:26
+CPU : 0.7
+Memory : 0.17439510427644192
+----------------------------------------
+PID : 656
+Name : smss.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:29
+CPU : 0.0
+Memory : 0.00010377572405619871
+----------------------------------------
+PID : 948
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.7
+Memory : 0.03170348369916871
+----------------------------------------
+PID : 1036
+Name : csrss.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:35
+CPU : 0.0
+Memory : 0.013646507713390129
+----------------------------------------
+PID : 1180
+Name : wininit.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 0.0
+Memory : 0.0012453086886743845
+----------------------------------------
+PID : 1188
+Name : csrss.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 2.1
+Memory : 0.01748620950346948
+----------------------------------------
+PID : 1192
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:54
+CPU : 0.0
+Memory : 0.057439863265105987
+----------------------------------------
+PID : 1228
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.05225107706229605
+----------------------------------------
+PID : 1284
+Name : winlogon.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 0.0
+Memory : 0.008146394338411599
+----------------------------------------
+PID : 1324
+Name : services.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 2.7
+Memory : 0.08670461744895402
+----------------------------------------
+PID : 1336
+Name : LsaIso.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 0.0
+Memory : 0.0011415329646181857
+----------------------------------------
+PID : 1344
+Name : lsass.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 2.7
+Memory : 0.1685317758672667
+----------------------------------------
+PID : 1416
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.11737034390756074
+----------------------------------------
+PID : 1484
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 0.0
+Memory : 0.2552882811782488
+----------------------------------------
+PID : 1496
+Name : fontdrvhost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 0.0
+Memory : 0.001037757240561987
+----------------------------------------
+PID : 1500
+Name : fontdrvhost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 0.0
+Memory : 0.00036321503419669545
+----------------------------------------
+PID : 1620
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:36
+CPU : 5.3
+Memory : 0.16972519669391298
+----------------------------------------
+PID : 1680
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.04405279486185635
+----------------------------------------
+PID : 1740
+Name : dwm.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 44.4
+Memory : 0.3561582849608739
+----------------------------------------
+PID : 1780
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:38
+CPU : 0.0
+Memory : 0.10854940736278385
+----------------------------------------
+PID : 1788
+Name : UserOOBEBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:29:59
+CPU : 0.0
+Memory : 0.0015566358608429807
+----------------------------------------
+PID : 1816
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.03865645721093402
+----------------------------------------
+PID : 1836
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.07165713746080521
+----------------------------------------
+PID : 1856
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:23:40
+CPU : 0.0
+Memory : 0.02324576218858851
+----------------------------------------
+PID : 1900
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.007575627856102506
+----------------------------------------
+PID : 1932
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:31:51
+CPU : 43.8
+Memory : 3.645070419611952
+----------------------------------------
+PID : 1956
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.03709982135009104
+----------------------------------------
+PID : 1964
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.02225989281005462
+----------------------------------------
+PID : 1980
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:35
+CPU : 0.0
+Memory : 0.0005188786202809935
+----------------------------------------
+PID : 1996
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:04:40
+CPU : 5.0
+Memory : 0.09054431923903337
+----------------------------------------
+PID : 2040
+Name : SecurityHealthService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:41:13
+CPU : 0.0
+Memory : 0.019613611846621557
+----------------------------------------
+PID : 2064
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.01764187308955378
+----------------------------------------
+PID : 2072
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.018887181778228162
+----------------------------------------
+PID : 2080
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.04187350465667618
+----------------------------------------
+PID : 2108
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:44
+CPU : 0.0
+Memory : 0.0955255539937309
+----------------------------------------
+PID : 2244
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.05811440547147127
+----------------------------------------
+PID : 2252
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.6
+Memory : 0.06984106228982173
+----------------------------------------
+PID : 2268
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:13
+CPU : 0.0
+Memory : 0.01847207888200337
+----------------------------------------
+PID : 2272
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.016448452262907497
+----------------------------------------
+PID : 2316
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.012660638334856242
+----------------------------------------
+PID : 2356
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 14.8
+Memory : 0.10657766860571607
+----------------------------------------
+PID : 2408
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.02801944549517365
+----------------------------------------
+PID : 2544
+Name : RuntimeBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:27:14
+CPU : 0.0
+Memory : 0.030769502182662917
+----------------------------------------
+PID : 2576
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.03917533583121501
+----------------------------------------
+PID : 2644
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:37
+CPU : 0.0
+Memory : 0.013023853369052938
+----------------------------------------
+PID : 2748
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:23:34
+CPU : 0.0
+Memory : 0.09817183495716397
+----------------------------------------
+PID : 3000
+Name : amdfendrsr.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0016604115848991793
+----------------------------------------
+PID : 3008
+Name : atiesrxx.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.003268935307770259
+----------------------------------------
+PID : 3024
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.09095942213525816
+----------------------------------------
+PID : 3224
+Name : PhoneExperienceHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:08
+CPU : 0.6
+Memory : 0.5861771773314384
+----------------------------------------
+PID : 3336
+Name : atieclxx.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 1.1
+Memory : 0.032274250181477795
+----------------------------------------
+PID : 3344
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.05541623664601011
+----------------------------------------
+PID : 3352
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.01826452743389097
+----------------------------------------
+PID : 3360
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.028538324115454643
+----------------------------------------
+PID : 3432
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:10
+CPU : 0.6
+Memory : 1.404967640134846
+----------------------------------------
+PID : 3448
+Name : MemCompression
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.84712123547075
+----------------------------------------
+PID : 3500
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.027552454736920754
+----------------------------------------
+PID : 3540
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.018679630330115767
+----------------------------------------
+PID : 3548
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.025321276669712484
+----------------------------------------
+PID : 3604
+Name : spoolsv.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0016604115848991793
+----------------------------------------
+PID : 3648
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0559351152662911
+----------------------------------------
+PID : 3716
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.018990957502284363
+----------------------------------------
+PID : 3924
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.043689579827659655
+----------------------------------------
+PID : 3948
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.17937633903113948
+----------------------------------------
+PID : 3988
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.12442709314338224
+----------------------------------------
+PID : 4016
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.019509836122565356
+----------------------------------------
+PID : 4084
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.01359461985136203
+----------------------------------------
+PID : 4164
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0323261380435059
+----------------------------------------
+PID : 4268
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 1.6
+Memory : 0.294048514113239
+----------------------------------------
+PID : 4276
+Name : GameInputRedistService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.005448225512950432
+----------------------------------------
+PID : 4284
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.16469207407718733
+----------------------------------------
+PID : 4308
+Name : OfficeClickToRun.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.5
+Memory : 0.06543059401743329
+----------------------------------------
+PID : 4316
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.013854059161502527
+----------------------------------------
+PID : 4376
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.013802171299474426
+----------------------------------------
+PID : 4396
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.10787486515641855
+----------------------------------------
+PID : 4424
+Name : WsNativePushService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.02947230563196043
+----------------------------------------
+PID : 4436
+Name : ProtonVPN.Client.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:24
+CPU : 3.7
+Memory : 1.2055106984988324
+----------------------------------------
+PID : 4444
+Name : MpDefenderCoreService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.06952973511765313
+----------------------------------------
+PID : 4452
+Name : conhost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 0.0
+Memory : 0.013542731989333931
+----------------------------------------
+PID : 4564
+Name : RtkBtManServ.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0036840382039950536
+----------------------------------------
+PID : 4588
+Name : pmservice.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 1.0
+Memory : 0.01276441405891244
+----------------------------------------
+PID : 4600
+Name : SmartByteAnalyticsService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0009339815165057884
+----------------------------------------
+PID : 4616
+Name : RtkAudUService64.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.010896451025900864
+----------------------------------------
+PID : 4628
+Name : SmartByteNetworkService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 1.5
+Memory : 0.12629505617639383
+----------------------------------------
+PID : 4640
+Name : crashpad_handler.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:27
+CPU : 0.0
+Memory : 0.0068491977877091145
+----------------------------------------
+PID : 4652
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.021689126327745528
+----------------------------------------
+PID : 4660
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.0071086370978496105
+----------------------------------------
+PID : 4680
+Name : WavesAudioService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.01764187308955378
+----------------------------------------
+PID : 4724
+Name : MsMpEng.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 13.0
+Memory : 1.746337884417712
+----------------------------------------
+PID : 4732
+Name : WavesSysSvc64.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.002646280963433067
+----------------------------------------
+PID : 4740
+Name : GameInputRedistService.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.001764187308955378
+----------------------------------------
+PID : 4748
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:38
+CPU : 0.0
+Memory : 0.1382292644428567
+----------------------------------------
+PID : 4792
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 0.0
+Memory : 0.06750610849855725
+----------------------------------------
+PID : 4832
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:38
+CPU : 0.0
+Memory : 0.05515679733586962
+----------------------------------------
+PID : 4852
+Name : wslservice.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 0.0
+Memory : 0.0014009722747586825
+----------------------------------------
+PID : 5124
+Name : ChatGPT.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:44
+CPU : 0.5
+Memory : 0.3212377538159631
+----------------------------------------
+PID : 5308
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.0559351152662911
+----------------------------------------
+PID : 5316
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 0.0
+Memory : 0.015151255712205013
+----------------------------------------
+PID : 5404
+Name : ApplicationFrameHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:29:57
+CPU : 0.0
+Memory : 0.04363769196563155
+----------------------------------------
+PID : 5436
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 0.0
+Memory : 0.14637565878126826
+----------------------------------------
+PID : 5540
+Name : RAPS.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 4.9
+Memory : 0.10543613564109788
+----------------------------------------
+PID : 5636
+Name : XboxPcAppFT.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:51:08
+CPU : 0.0
+Memory : 0.05017556258117207
+----------------------------------------
+PID : 5676
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:29:59
+CPU : 0.0
+Memory : 0.02075514481123974
+----------------------------------------
+PID : 5744
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:50
+CPU : 0.0
+Memory : 0.03377899818029268
+----------------------------------------
+PID : 5804
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:34:33
+CPU : 0.0
+Memory : 0.0805299618676102
+----------------------------------------
+PID : 5864
+Name : ChatGPT.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:46
+CPU : 0.0
+Memory : 0.10875695881089624
+----------------------------------------
+PID : 5960
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:13
+CPU : 15.5
+Memory : 1.7955794654823782
+----------------------------------------
+PID : 5964
+Name : RAPSService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:39
+CPU : 0.0
+Memory : 0.025269388807684385
+----------------------------------------
+PID : 5980
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:14
+CPU : 0.0
+Memory : 0.03865645721093402
+----------------------------------------
+PID : 6152
+Name : AppActions.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:30:47
+CPU : 0.0
+Memory : 0.07892143814473912
+----------------------------------------
+PID : 6180
+Name : WhatsApp.Root.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:05
+CPU : 0.0
+Memory : 0.3382569725611797
+----------------------------------------
+PID : 6188
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:26:22
+CPU : 0.0
+Memory : 0.1674940186267047
+----------------------------------------
+PID : 6216
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:27:14
+CPU : 0.0
+Memory : 0.055208685197897706
+----------------------------------------
+PID : 6232
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:43
+CPU : 0.0
+Memory : 0.010792675301844665
+----------------------------------------
+PID : 6244
+Name : RtkAudUService64.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:42
+CPU : 0.0
+Memory : 0.0005707664823090928
+----------------------------------------
+PID : 6316
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:43
+CPU : 0.0
+Memory : 0.08172338269425648
+----------------------------------------
+PID : 6356
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:43
+CPU : 16.5
+Memory : 0.18176318068443204
+----------------------------------------
+PID : 6540
+Name : gamingservices.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:43
+CPU : 0.0
+Memory : 0.21107982273030818
+----------------------------------------
+PID : 6600
+Name : gamingservicesnet.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:43
+CPU : 0.0
+Memory : 0.009028487992889286
+----------------------------------------
+PID : 6700
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:43
+CPU : 0.0
+Memory : 0.016967330883188487
+----------------------------------------
+PID : 6768
+Name : SystemSettings.exe
+UserName : SOMNATH\somna
+Status : stopped
+Start Time : 2026-03-18 16:29:57
+CPU : 0.0
+Memory : 0.00041510289622479483
+----------------------------------------
+PID : 6884
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:48
+CPU : 0.0
+Memory : 0.03824135431470922
+----------------------------------------
+PID : 7268
+Name : sihost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.15711644622108484
+----------------------------------------
+PID : 7308
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.016967330883188487
+----------------------------------------
+PID : 7316
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.056869096782796884
+----------------------------------------
+PID : 7336
+Name : ChatGPT.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:46
+CPU : 0.0
+Memory : 0.13361124472235583
+----------------------------------------
+PID : 7364
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.013023853369052938
+----------------------------------------
+PID : 7400
+Name : RtkAudUService64.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:17
+CPU : 0.0
+Memory : 0.013283292679193434
+----------------------------------------
+PID : 7424
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.14881438829658894
+----------------------------------------
+PID : 7460
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.16816856083307
+----------------------------------------
+PID : 7476
+Name : taskhostw.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.5
+Memory : 0.07575627856102506
+----------------------------------------
+PID : 7692
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.01758998522752568
+----------------------------------------
+PID : 7756
+Name : python.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:32:59
+CPU : 0.0
+Memory : 0.05162842271795886
+----------------------------------------
+PID : 7892
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:44
+CPU : 0.0
+Memory : 0.07274678256339528
+----------------------------------------
+PID : 7920
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:37
+CPU : 0.0
+Memory : 0.35657338785709874
+----------------------------------------
+PID : 7992
+Name : explorer.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.9
+Memory : 1.0170020957507473
+----------------------------------------
+PID : 8036
+Name : unsecapp.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:20
+CPU : 0.0
+Memory : 0.027760006185033152
+----------------------------------------
+PID : 8040
+Name : ShellHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.05951537774622996
+----------------------------------------
+PID : 8088
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:44
+CPU : 0.0
+Memory : 0.10787486515641855
+----------------------------------------
+PID : 8296
+Name : ShellHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:03:16
+CPU : 0.0
+Memory : 0.11654013811511114
+----------------------------------------
+PID : 8324
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.04218483182884478
+----------------------------------------
+PID : 8356
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.05225107706229605
+----------------------------------------
+PID : 8372
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.07144958601269281
+----------------------------------------
+PID : 8396
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:54
+CPU : 0.0
+Memory : 0.0022830659292363714
+----------------------------------------
+PID : 8504
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.017434321641441382
+----------------------------------------
+PID : 8556
+Name : CrossDeviceResume.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.05199163775215555
+----------------------------------------
+PID : 8616
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:45
+CPU : 0.0
+Memory : 0.02350520149872901
+----------------------------------------
+PID : 8656
+Name : BingSvc.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:36
+CPU : 0.0
+Memory : 0.13651696499592939
+----------------------------------------
+PID : 8668
+Name : NgcIso.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:46
+CPU : 0.0
+Memory : 0.013905947023530625
+----------------------------------------
+PID : 8780
+Name : unsecapp.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:46
+CPU : 0.0
+Memory : 0.02962796921804473
+----------------------------------------
+PID : 8840
+Name : dllhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:59
+CPU : 0.0
+Memory : 0.011622881094294255
+----------------------------------------
+PID : 8860
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.034142213214489375
+----------------------------------------
+PID : 8896
+Name : WmiPrvSE.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:46
+CPU : 0.0
+Memory : 0.0160333493666827
+----------------------------------------
+PID : 8984
+Name : python.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:32:59
+CPU : 81.1
+Memory : 0.33872396331943255
+----------------------------------------
+PID : 9108
+Name : AggregatorHost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:46
+CPU : 0.0
+Memory : 0.04747739375571091
+----------------------------------------
+PID : 9176
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:18
+CPU : 0.0
+Memory : 0.043066925483322464
+----------------------------------------
+PID : 9200
+Name : servicehost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:23:40
+CPU : 0.0
+Memory : 0.17221581407126174
+----------------------------------------
+PID : 9344
+Name : CrossDeviceService.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:49
+CPU : 0.4
+Memory : 0.13988967602775584
+----------------------------------------
+PID : 9432
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:49
+CPU : 0.0
+Memory : 0.01925039681242486
+----------------------------------------
+PID : 9592
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:52
+CPU : 0.0
+Memory : 0.009910581647366978
+----------------------------------------
+PID : 9656
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:27:11
+CPU : 0.0
+Memory : 0.08592629951853253
+----------------------------------------
+PID : 9760
+Name : StartMenuExperienceHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:50
+CPU : 0.0
+Memory : 0.1781829182044932
+----------------------------------------
+PID : 9768
+Name : SearchHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:50
+CPU : 0.0
+Memory : 0.20786277528456598
+----------------------------------------
+PID : 9800
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:04:26
+CPU : 53.0
+Memory : 4.467960023515579
+----------------------------------------
+PID : 10020
+Name : WidgetBoard.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:50
+CPU : 0.0
+Memory : 0.4133905967778675
+----------------------------------------
+PID : 10104
+Name : SpotifyWidgetProvider.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:27
+CPU : 0.0
+Memory : 0.04664718796326132
+----------------------------------------
+PID : 10168
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:29:58
+CPU : 0.0
+Memory : 0.014788040678008315
+----------------------------------------
+PID : 10192
+Name : WavesSvc64.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:20
+CPU : 0.0
+Memory : 0.04633586079109272
+----------------------------------------
+PID : 10276
+Name : DellSupportAssistRemedationService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:23:24
+CPU : 0.0
+Memory : 0.23084909816301402
+----------------------------------------
+PID : 10296
+Name : mylbx.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:23
+CPU : 0.0
+Memory : 0.03652905486778194
+----------------------------------------
+PID : 10524
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:29:59
+CPU : 0.0
+Memory : 0.018990957502284363
+----------------------------------------
+PID : 10564
+Name : WidgetService.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:51
+CPU : 0.0
+Memory : 0.10564368708921028
+----------------------------------------
+PID : 10636
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:04:11
+CPU : 0.0
+Memory : 0.03881212079701832
+----------------------------------------
+PID : 10744
+Name : SDXHelper.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:36:03
+CPU : 0.0
+Memory : 0.1671826914545361
+----------------------------------------
+PID : 10764
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:52
+CPU : 0.0
+Memory : 0.05251051637243655
+----------------------------------------
+PID : 10820
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:52
+CPU : 0.0
+Memory : 0.000882093654477689
+----------------------------------------
+PID : 10848
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:08
+CPU : 0.0
+Memory : 0.4485186793708908
+----------------------------------------
+PID : 10920
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:09
+CPU : 0.0
+Memory : 0.06600136049974238
+----------------------------------------
+PID : 11028
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:52
+CPU : 0.0
+Memory : 0.09516233895953422
+----------------------------------------
+PID : 11128
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:09
+CPU : 0.0
+Memory : 0.08172338269425648
+----------------------------------------
+PID : 11148
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:29:58
+CPU : 0.0
+Memory : 0.01541069502234551
+----------------------------------------
+PID : 11200
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:37
+CPU : 0.0
+Memory : 0.0402649809338051
+----------------------------------------
+PID : 11212
+Name : ctfmon.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:52
+CPU : 0.8
+Memory : 0.11648825025308304
+----------------------------------------
+PID : 11220
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:52
+CPU : 0.0
+Memory : 0.0022311780672082723
+----------------------------------------
+PID : 11304
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:53
+CPU : 0.0
+Memory : 0.008976600130861188
+----------------------------------------
+PID : 11448
+Name : LockApp.exe
+UserName : SOMNATH\somna
+Status : stopped
+Start Time : 2026-03-18 16:20:53
+CPU : 0.0
+Memory : 0.00020755144811239741
+----------------------------------------
+PID : 11528
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:33
+CPU : 0.0
+Memory : 0.0635626309844217
+----------------------------------------
+PID : 11752
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:54
+CPU : 0.0
+Memory : 0.021844789913829828
+----------------------------------------
+PID : 11828
+Name : TextInputHost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:54
+CPU : 0.0
+Memory : 0.2641611055850538
+----------------------------------------
+PID : 11848
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:14
+CPU : 0.0
+Memory : 0.043845243413743955
+----------------------------------------
+PID : 11892
+Name : FusionService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:23:35
+CPU : 0.0
+Memory : 0.09376136668477553
+----------------------------------------
+PID : 11916
+Name : ProtonVPNService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:29
+CPU : 0.4
+Memory : 0.29342585976890184
+----------------------------------------
+PID : 11944
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:04:40
+CPU : 0.0
+Memory : 0.08307246710698706
+----------------------------------------
+PID : 11976
+Name : RuntimeBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:53
+CPU : 0.0
+Memory : 0.09905392861164167
+----------------------------------------
+PID : 12188
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.0403687566578613
+----------------------------------------
+PID : 12344
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:57
+CPU : 0.0
+Memory : 0.25969874945063726
+----------------------------------------
+PID : 12396
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:37
+CPU : 0.0
+Memory : 0.018990957502284363
+----------------------------------------
+PID : 12412
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:37
+CPU : 0.0
+Memory : 0.9630906071035521
+----------------------------------------
+PID : 12636
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:37
+CPU : 0.0
+Memory : 0.021274023431520735
+----------------------------------------
+PID : 12700
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.0011934208266462852
+----------------------------------------
+PID : 12728
+Name : FileCoAuth.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:01
+CPU : 0.0
+Memory : 0.09189340365176396
+----------------------------------------
+PID : 12740
+Name : MicrosoftStartFeedProvider.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:56
+CPU : 0.0
+Memory : 0.4905478476136513
+----------------------------------------
+PID : 12808
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:09
+CPU : 0.0
+Memory : 0.0401093173477208
+----------------------------------------
+PID : 12848
+Name : ChatGPT.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:45
+CPU : 0.0
+Memory : 0.0011934208266462852
+----------------------------------------
+PID : 12988
+Name : NisSrv.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:56
+CPU : 0.0
+Memory : 0.05821818119552747
+----------------------------------------
+PID : 13072
+Name : SearchIndexer.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:20:57
+CPU : 0.0
+Memory : 0.09900204074961357
+----------------------------------------
+PID : 13328
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:14
+CPU : 2.0
+Memory : 0.3778474112886195
+----------------------------------------
+PID : 13380
+Name : RuntimeBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:20:59
+CPU : 0.0
+Memory : 0.020547593363127344
+----------------------------------------
+PID : 13468
+Name : uihost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:23:41
+CPU : 0.0
+Memory : 0.11410140859979048
+----------------------------------------
+PID : 13636
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:30
+CPU : 1.2
+Memory : 4.200426206898699
+----------------------------------------
+PID : 13664
+Name : SmartByteTelemetry.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:45
+CPU : 2.8
+Memory : 0.13003098224241696
+----------------------------------------
+PID : 13744
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:06
+CPU : 0.0
+Memory : 0.017174882331300885
+----------------------------------------
+PID : 13752
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:46:47
+CPU : 0.0
+Memory : 0.012712526196884342
+----------------------------------------
+PID : 13856
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:02
+CPU : 0.0
+Memory : 0.01525503143626121
+----------------------------------------
+PID : 13860
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:02
+CPU : 0.0
+Memory : 0.01208987185254715
+----------------------------------------
+PID : 13872
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:02
+CPU : 0.0
+Memory : 0.016967330883188487
+----------------------------------------
+PID : 13976
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:02
+CPU : 0.0
+Memory : 0.01748620950346948
+----------------------------------------
+PID : 14100
+Name : RuntimeBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:06
+CPU : 0.0
+Memory : 0.019769275432705853
+----------------------------------------
+PID : 14104
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:05
+CPU : 0.0
+Memory : 0.030094959976297627
+----------------------------------------
+PID : 14220
+Name : dasHost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:02
+CPU : 0.0
+Memory : 0.0007783179304214903
+----------------------------------------
+PID : 14272
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:03
+CPU : 0.0
+Memory : 0.01530691929828931
+----------------------------------------
+PID : 14328
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:14
+CPU : 12.2
+Memory : 1.1613022400508917
+----------------------------------------
+PID : 14984
+Name : ProtonVPN.WireGuardService.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:46
+CPU : 3.4
+Memory : 0.2968504586627564
+----------------------------------------
+PID : 15164
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:24:11
+CPU : 0.0
+Memory : 0.19551346412187837
+----------------------------------------
+PID : 15172
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:38
+CPU : 0.0
+Memory : 0.3949704057578923
+----------------------------------------
+PID : 15228
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:30
+CPU : 2.1
+Memory : 0.44836301578480653
+----------------------------------------
+PID : 15256
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:38
+CPU : 0.0
+Memory : 0.314388556028254
+----------------------------------------
+PID : 15516
+Name : cmd.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:45
+CPU : 0.0
+Memory : 0.0025943931014049677
+----------------------------------------
+PID : 15540
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:45
+CPU : 0.0
+Memory : 0.0018160751709834773
+----------------------------------------
+PID : 15564
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:34:29
+CPU : 0.4
+Memory : 0.07093070739241182
+----------------------------------------
+PID : 15596
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:44
+CPU : 0.0
+Memory : 0.03590640052344475
+----------------------------------------
+PID : 15608
+Name : browserhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:45
+CPU : 0.0
+Memory : 0.00959925447519838
+----------------------------------------
+PID : 15640
+Name : RadeonSoftware.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:40
+CPU : 0.0
+Memory : 0.18949447212661885
+----------------------------------------
+PID : 15748
+Name : Copilot.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:41
+CPU : 0.0
+Memory : 0.2734490328880836
+----------------------------------------
+PID : 15772
+Name : audiodg.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 17:04:40
+CPU : 22.2
+Memory : 0.34718168483001277
+----------------------------------------
+PID : 15872
+Name : cncmd.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:41
+CPU : 0.0
+Memory : 0.007523739994074407
+----------------------------------------
+PID : 16020
+Name : AMDRSServ.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:41
+CPU : 0.0
+Memory : 0.03699604562603483
+----------------------------------------
+PID : 16028
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:21:42
+CPU : 0.0
+Memory : 0.0883131411718251
+----------------------------------------
+PID : 16204
+Name : AMDRSSrcExt.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:42
+CPU : 0.0
+Memory : 0.0643409489148432
+----------------------------------------
+PID : 16308
+Name : RuntimeBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:21:43
+CPU : 0.0
+Memory : 0.020599481225155442
+----------------------------------------
+PID : 16336
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:46:57
+CPU : 0.0
+Memory : 0.6327205895706435
+----------------------------------------
+PID : 16452
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:55
+CPU : 0.0
+Memory : 1.1518586491617775
+----------------------------------------
+PID : 16552
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:54
+CPU : 0.0
+Memory : 0.11052114611985163
+----------------------------------------
+PID : 16568
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:42
+CPU : 0.0
+Memory : 0.11742223176958884
+----------------------------------------
+PID : 16980
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:08
+CPU : 0.0
+Memory : 0.003580262479938855
+----------------------------------------
+PID : 17072
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:44
+CPU : 0.0
+Memory : 2.7035651631120885
+----------------------------------------
+PID : 17108
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:54
+CPU : 0.0
+Memory : 0.5122369739413968
+----------------------------------------
+PID : 17248
+Name : chrome.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:48
+CPU : 0.0
+Memory : 0.07321377332164819
+----------------------------------------
+PID : 17344
+Name : dllhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:59
+CPU : 0.0
+Memory : 0.010585123853732267
+----------------------------------------
+PID : 17352
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:30
+CPU : 2.0
+Memory : 0.2875625313597266
+----------------------------------------
+PID : 17472
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:28
+CPU : 0.0
+Memory : 0.02978363280412903
+----------------------------------------
+PID : 17552
+Name : ServiceShell.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:23:24
+CPU : 0.4
+Memory : 0.31729427630182755
+----------------------------------------
+PID : 17640
+Name : YourPhoneAppProxy.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:12
+CPU : 0.0
+Memory : 0.1449746865065096
+----------------------------------------
+PID : 17660
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:22:12
+CPU : 0.0
+Memory : 0.017278658055357086
+----------------------------------------
+PID : 17712
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 17:27:17
+CPU : 0.0
+Memory : 0.4161925413273849
+----------------------------------------
+PID : 17796
+Name : RuntimeBroker.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:13
+CPU : 0.0
+Memory : 0.028382660529370343
+----------------------------------------
+PID : 17808
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:26:14
+CPU : 0.0
+Memory : 0.06537870615540518
+----------------------------------------
+PID : 18156
+Name : msedge.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:27:11
+CPU : 0.0
+Memory : 0.05925593843608946
+----------------------------------------
+PID : 18236
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:54
+CPU : 0.0
+Memory : 0.2575713471074852
+----------------------------------------
+PID : 18240
+Name : msedgewebview2.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:54
+CPU : 0.0
+Memory : 0.4108480915384907
+----------------------------------------
+PID : 18292
+Name : ONENOTEM.EXE
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:22:34
+CPU : 0.0
+Memory : 0.003528374617910756
+----------------------------------------
+PID : 18340
+Name : dllhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:59
+CPU : 0.0
+Memory : 0.009287927303029783
+----------------------------------------
+PID : 18780
+Name : ChatGPT.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:23:44
+CPU : 0.0
+Memory : 0.296642907214644
+----------------------------------------
+PID : 18916
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:31:52
+CPU : 0.0
+Memory : 0.7573033463001101
+----------------------------------------
+PID : 18980
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:24:11
+CPU : 0.0
+Memory : 0.027396791150836458
+----------------------------------------
+PID : 19016
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:24:11
+CPU : 0.0
+Memory : 0.026722248944471165
+----------------------------------------
+PID : 19164
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:24:11
+CPU : 0.0
+Memory : 0.03310445597392739
+----------------------------------------
+PID : 19348
+Name : dllhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:25:59
+CPU : 0.0
+Memory : 0.01208987185254715
+----------------------------------------
+PID : 20056
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 16:30:36
+CPU : 0.0
+Memory : 0.01359461985136203
+----------------------------------------
+PID : 20344
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:37
+CPU : 0.0
+Memory : 0.0004669907582528942
+----------------------------------------
+PID : 20496
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:35
+CPU : 0.0
+Memory : 0.0005707664823090928
+----------------------------------------
+PID : 20612
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:31:50
+CPU : 0.0
+Memory : 0.03512808259302326
+----------------------------------------
+PID : 20872
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:31:50
+CPU : 5.1
+Memory : 1.026808901674058
+----------------------------------------
+PID : 20900
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.002957608135601663
+----------------------------------------
+PID : 20904
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:31:50
+CPU : 0.0
+Memory : 0.16313543821634438
+----------------------------------------
+PID : 21080
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:35
+CPU : 0.0
+Memory : 0.0011415329646181857
+----------------------------------------
+PID : 21232
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:36
+CPU : 0.0
+Memory : 0.0014009722747586825
+----------------------------------------
+PID : 21444
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:51
+CPU : 0.0
+Memory : 0.15483338029184848
+----------------------------------------
+PID : 21484
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 16:31:50
+CPU : 1.9
+Memory : 0.7747895558035794
+----------------------------------------
+PID : 21620
+Name : pet.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:45
+CPU : 0.0
+Memory : 0.0007783179304214903
+----------------------------------------
+PID : 21660
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:45
+CPU : 0.0
+Memory : 0.0009858693785338877
+----------------------------------------
+PID : 21904
+Name : svchost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:23:53
+CPU : 1.9
+Memory : 0.09044054351497717
+----------------------------------------
+PID : 21932
+Name : powershell.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:48
+CPU : 0.0
+Memory : 0.04208105610478857
+----------------------------------------
+PID : 22092
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:47
+CPU : 0.0
+Memory : 0.0022830659292363714
+----------------------------------------
+PID : 22284
+Name : pet.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:43
+CPU : 0.0
+Memory : 0.04400090699982825
+----------------------------------------
+PID : 22292
+Name : conhost.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:43
+CPU : 0.0
+Memory : 0.003268935307770259
+----------------------------------------
+PID : 22916
+Name : Code.exe
+UserName : SOMNATH\somna
+Status : running
+Start Time : 2026-03-18 17:06:54
+CPU : 0.4
+Memory : 4.795735647947082
+----------------------------------------
+PID : 23360
+Name : svchost.exe
+UserName : None
+Status : running
+Start Time : 2026-03-18 17:24:49
+CPU : 0.0
+Memory : 0.03367522245623648
+----------------------------------------
+----------------------------------------
+		End of the log file----------------------------------------

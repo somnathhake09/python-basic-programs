@@ -15,3 +15,7 @@ def scan_processes(lmit=5):
         except Exception as e:
             print(f"Error occurred while processing process: {e}")
     return process_list
+
+data = scan_processes()
+for item in data:
+    print(item)
