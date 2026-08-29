@@ -20,6 +20,9 @@ with open("transactions.csv", "r") as f:
     for row in reader:
         print(row)
 """
+
+
+"""
 # read and write JSON file
 import json
 
@@ -29,16 +32,30 @@ transactions = [
     {"description": "Movie", "amount": 350, "category": "Entertainment"},
 ]
 
-# JSON फाईलमध्ये लिहा
+# JSON write
 with open("transactions_test.json", "w") as f:
     json.dump(transactions, f, indent=2)
 
 print("JSON file written successfully!")
 
-# JSON फाईल परत वाचा
+# JSON read
 with open("transactions_test.json", "r") as f:
     loaded = json.load(f)
     print(loaded)
 
-# फरक तपासा — type बघा
-print(type(loaded[0]["amount"]))   # <class 'int'> — JSON ने खरा नंबर टाइप ठेवला!
+print(type(loaded[0]["amount"]))   # <class 'int'> — JSON
+"""
+
+
+from pathlib import Path
+
+file_path = Path("transactions.json")
+
+if file_path.exists():
+    print("Found")
+else:
+    print("Not found")
+
+if file_path.exists():
+    print(f"File name: {file_path.name}")
+    print(f"File size: {file_path.stat().st_size} bytes")
