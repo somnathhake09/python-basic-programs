@@ -18,4 +18,26 @@ class BankAccount:
 acc = BankAccount("Somnath", 5000)
 acc.deposit(2000)      # Deposited 2000. New balance: 7000
 acc.withdraw(1000)     # Withdrew 1000. New balance: 6000
-acc.withdraw(50000)    # ValueError: Insufficient balance!
+# acc.withdraw(50000)    # ValueError: Insufficient balance!
+
+
+# Exercise 2: Transaction class + classify() method
+class Transaction:
+    def __init__(self, description, amount, category):
+        self.description = description
+        self.amount = amount
+        self.category = category
+
+    def classify(self):
+        if self.category in ("Food", "Rent"):
+            return "Essential"
+        elif self.category in ("Travel", "Entertainment"):
+            return "Discretionary"
+        else:
+            return "Unknown"
+
+t1 = Transaction("Groceries", 1200, "Food")
+print(t1.classify())   # Essential
+
+t2 = Transaction("Movie", 350, "Entertainment")
+print(t2.classify())   # Discretionary
