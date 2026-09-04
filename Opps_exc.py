@@ -41,3 +41,16 @@ print(t1.classify())   # Essential
 
 t2 = Transaction("Movie", 350, "Entertainment")
 print(t2.classify())   # Discretionary
+
+# Exercise3 recurring transactions
+
+class RecurringTransaction(Transaction):
+    def __init__(self,description, amount, category, frequency):
+        super().__init__(description, amount, category)
+        self.frequency = frequency
+
+rent = RecurringTransaction("Rent", 15000, "Rent", "Monthly")
+print(rent.description)
+print(rent.amount)
+print(rent.frequency)
+print(rent.classify())  # Essential
