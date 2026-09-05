@@ -42,6 +42,7 @@ print(t1.classify())   # Essential
 t2 = Transaction("Movie", 350, "Entertainment")
 print(t2.classify())   # Discretionary
 
+
 # Exercise3 recurring transactions
 
 class RecurringTransaction(Transaction):
@@ -54,3 +55,24 @@ print(rent.description)
 print(rent.amount)
 print(rent.frequency)
 print(rent.classify())  # Essential
+
+# Exercise 4 transaction str
+class Transaction:
+    def __init__(self, description, amount, category):
+        self.description = description
+        self.amount = amount
+        self.category = category
+
+    def classify(self):
+        if self.category in ("Food", "Rent"):
+            return "Essential"
+        elif self.category in ("Travel", "Entertainment"):
+            return "Discretionary"
+        else:
+            return "Unknown"
+
+    def __str__(self):
+        return f"{self.description}: ₹{self.amount} ({self.category}) - {self.classify()}"
+
+t1 = Transaction("Groceries", 1200, "Food")
+print(t1)   # Groceries: ₹1200 (Food) - Essential
