@@ -76,3 +76,30 @@ class Transaction:
 
 t1 = Transaction("Groceries", 1200, "Food")
 print(t1)   # Groceries: ₹1200 (Food) - Essential
+
+# Exercise 5 transaction counter
+class Transaction:
+    count = 0
+    def __init__(self, description, amount, category):
+        self.description = description
+        self.amount = amount
+        self.category = category
+        Transaction.count += 1   # ← new transaction counter is increses
+
+    def classify(self):
+        if self.category in ("Food", "Rent"):
+            return "Essential"
+        elif self.category in ("Travel", "Entertainment"):
+            return "Discretionary"
+        else:
+            return "Unknown"
+
+    def __str__(self):
+        return f"{self.description}: ₹{self.amount} ({self.category}) - {self.classify()}"
+
+
+t1 = Transaction("Groceries", 1200, "Food")
+t2 = Transaction("Movie", 350, "Entertainment")
+t3 = Transaction("Rent", 8000, "Rent")
+
+print(Transaction.count)   # 3 —  transactions 
